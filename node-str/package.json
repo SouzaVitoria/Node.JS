@@ -1,0 +1,22 @@
+{
+  "name": "node-str",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bin/server.js"
+  },
+  "keywords": [],
+  "author": "Vitoria",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "mongoose": "^5.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
